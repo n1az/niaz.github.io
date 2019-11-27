@@ -21,6 +21,7 @@ li {
 li a {
     display: block;
     color: white;
+    font-family: "Courier New", Courier, monospace;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -45,7 +46,7 @@ li a:hover:not(.active) {
 }
 
 h1 {
-    font-family: comic sans ms;
+    font-family: "Courier New", Courier, monospace;
     font-size: 36px;
     color: rgb(255, 255, 255);
     margin: 0px;
@@ -63,7 +64,7 @@ h1 {
 }
 
 h2 {
-    font-family: comic sans ms;
+    font-family: "Courier New", Courier, monospace;
     font-size: 28px;
     color: rgb(255, 255, 255);
     text-align: center;
@@ -210,7 +211,7 @@ div {
 }
 
 h3 {
-    font-family: comic sans ms;
+    font-family: "Courier New", Courier, monospace;
     font-size: 22px;
     color: rgb(255, 255, 255);
     text-align: center;
