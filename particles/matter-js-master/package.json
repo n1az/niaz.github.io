@@ -31,7 +31,7 @@
     "run-sequence": "^1.1.4",
     "webpack": "^4.39.3",
     "webpack-cli": "^3.3.8",
-    "webpack-dev-server": "^3.8.0"
+    "webpack-dev-server": "^4.11.1"
   },
   "scripts": {
     "dev": "webpack-dev-server --watch-content-base",
