@@ -20,7 +20,7 @@ jobs:
       uses: actions/checkout@v2
       with: 
         token: ${{ secrets.MY_TOKEN }}
-        repository: n1az.github.io-old
+        repository: n1az/n1az.github.io-old
         ref: master 
         path: site
     - name: Perform jekyll build
